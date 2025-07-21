@@ -1,21 +1,17 @@
-# 🤖 pybrain-ai
-
-Welcome to my AI playground — a curated collection of hands-on AI projects, tutorials, and tools built with Python. From neural networks to creative AI, everything here is made to teach, inspire, and scale.
-
-## 🔍 Topics Covered
-- Neural Networks from scratch
-- Deep Learning with PyTorch
-- Natural Language Processing (NLP)
-- AI Art & Generative Models
-- Real-world AI Applications
-
-## 🛠 Tech Stack
-- Python, PyTorch, Transformers
-- Jupyter Notebooks
-- Scikit-learn, OpenCV, Numpy
-
-## 🚀 Getting Started
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
+📦 your-repo-name/
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── notebooks/
+│   ├── 01_introduction_to_ai.ipynb
+│   ├── 02_neural_networks.ipynb
+│   └── 03_nlp_and_transformers.ipynb
+├── projects/
+│   ├── ai_art_generator/
+│   └── sentiment_analyzer/
+├── datasets/
+│   └── sample_data.csv
+├── src/
+│   └── model_utils.py
+└── images/
+    └── preview.png
